@@ -90,6 +90,16 @@ a:link {
   gap: 20px;
   padding-top: 10px;
 }
+.contenedor-flex-EPAIG-1-vert{
+  display: flex;
+  background-color: rgb(2, 0, 36);
+  margin-inline: 20px;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  padding-top: 10px;
+}
 .contenedor-flex-EPAIG-2 {
   display: flex;
   background-color: rgb(25, 19, 139);
